@@ -1,4 +1,5 @@
 const path = require("path");
+//missing code on line 3 for this to function - compare to Alejandro's
 const HtmlWebpackPlugin
 
 module.exports = {
